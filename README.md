@@ -19,6 +19,3 @@
 
 - C / C++ systems and tooling
 - backend services and APIs
-- cross-platform software (Linux / Windows)
-- local-first tools
-- monitoring and data-driven services
