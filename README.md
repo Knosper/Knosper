@@ -19,7 +19,7 @@
   <a href="https://www.credly.com/badges/285eb143-2fc5-4410-aeb0-a94470ac60c5/public_url">
     <img
       src="https://github.com/user-attachments/assets/34a11975-ef9e-4159-8f58-27dcaa66f51b"
-      width="500"
+      width="350"
       alt="42 Curriculum of Architect certificate"
     />
   </a>
