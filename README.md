@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=D9E2FF" alt="PHP badge" />
 </p>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/285eb143-2fc5-4410-aeb0-a94470ac60c5/public_url">
+    <img src="https://img.shields.io/badge/Credly-Certification-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certification" />
+  </a>
+</p>
+
 ## Focus
 
 - C / C++ systems and tooling
