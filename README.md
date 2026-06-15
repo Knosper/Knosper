@@ -17,7 +17,11 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/285eb143-2fc5-4410-aeb0-a94470ac60c5/public_url">
-    <img src="https://img.shields.io/badge/Credly-Certification-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certification" />
+    <img
+      src="https://github.com/user-attachments/assets/34a11975-ef9e-4159-8f58-27dcaa66f51b"
+      width="500"
+      alt="42 Curriculum of Architect certificate"
+    />
   </a>
 </p>
 
